@@ -1,8 +1,8 @@
-#What is Docker?
+# What is Docker?
 
 Docker is an open-source platform that allows you to automate the deployment, scaling, and management of applications using containerization. Containers are lightweight, isolated environments that package an application and its dependencies into a single unit, ensuring consistency and portability across different environments.
 
-##Key concept
+## Key concept
 
 - Images: Docker images are read-only templates that contain everything needed to run an application, including the code, runtime, libraries, and dependencies.
 
@@ -12,7 +12,7 @@ Docker is an open-source platform that allows you to automate the deployment, sc
 
 - Docker Registry: Docker Registry is a central repository for Docker images. The most popular registry is Docker Hub, but you can also set up your own private registry.
 
-##Benefits of Docker
+## Benefits of Docker
 
 - Portability: Docker containers can run on any platform that supports Docker, enabling consistent deployments across development, testing, and production environments.
 
@@ -24,7 +24,7 @@ Docker is an open-source platform that allows you to automate the deployment, sc
 
 - Version Control: Docker images can be version controlled, allowing you to track changes, roll back to previous versions, and ensure reproducibility.
 
-##To get started with Docker:
+## To get started with Docker:
 
 - Install Docker: Follow the instructions specific to your operating system to install Docker from the official website (https://docs.docker.com/get-docker/).
 
@@ -38,7 +38,7 @@ Docker is an open-source platform that allows you to automate the deployment, sc
 
 - Orchestration and scaling: Explore container orchestration platforms like Docker Compose and Kubernetes to manage and scale containers in a distributed environment.
 
-##Additional Resources
+## Additional Resources
 
     Docker Documentation: https://docs.docker.com/
 
